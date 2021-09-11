@@ -1,0 +1,21 @@
+{
+    "name": "chturner94",
+    "displayName": "Fire Fight",
+    "description": "An elegant visual studio code that is sleek and elegant. Shades of white (light theme) or shades of dark grays (dark theme) with orange accents.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fire Fight",
+                "uiTheme": "vs",
+                "path": "./themes/Fire Fight-color-theme.json"
+            }
+        ]
+    }
+}
